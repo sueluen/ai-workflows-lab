@@ -6,10 +6,15 @@
 - Transformers use attention mechanisms
 - Models are probabilistic, not truly intelligent
 
+<img width="780" height="423" alt="image" src="https://github.com/user-attachments/assets/d177ae34-4e6d-4f81-8727-4d79e6c9a133" />
+
 ## Important Takeaways
 - Prompt = interface
 - AI is strongest inside workflows
 - Hallucinations are a major limitation
+
+<img width="394" height="228" alt="image" src="https://github.com/user-attachments/assets/6ec59bdb-cc41-4f34-b947-6761f6b82637" />
+
 
 ## Real-World Applications
 - AI-powered CRM assistant
