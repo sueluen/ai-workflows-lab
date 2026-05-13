@@ -221,8 +221,7 @@ Use retrieval + generation together.
 
 # Knowledge Check Answers
 
-## 1.
-### What is semantic search?
+## 1. What is semantic search?
 
 Semantic search understands:
 - meaning
@@ -233,22 +232,19 @@ instead of only matching exact keywords.
 
 ---
 
-## 2.
-### What are embeddings?
+## 2. What are embeddings?
 
 Embeddings are vector representations of text used for semantic understanding.
 
 ---
 
-## 3.
-### What is cosine similarity?
+## 3. What is cosine similarity?
 
 Cosine similarity measures how similar two vectors are.
 
 ---
 
-## 4.
-### Why are vector databases important?
+## 4. Why are vector databases important?
 
 They allow fast retrieval of semantically similar embeddings in large datasets.
 
